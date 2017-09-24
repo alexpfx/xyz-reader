@@ -1,4 +1,6 @@
 <resources>
+    <dimen name="elevation_normal">8dp</dimen>
+
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
