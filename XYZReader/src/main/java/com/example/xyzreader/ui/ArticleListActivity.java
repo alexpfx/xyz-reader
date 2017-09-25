@@ -81,7 +81,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         setContentView(R.layout.activity_article_list);
         ButterKnife.bind(this);
 
-        ToolbarUtils.setupToolbarWithLogo(this, mToolbar, R.drawable.logo);
+        ToolbarUtils.setupToolbar(this, mToolbar, false, false);
 
 
         getLoaderManager().initLoader(0, null, this);
