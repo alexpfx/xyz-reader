@@ -9,6 +9,12 @@
     <dimen name="spacing_normal">16dp</dimen>
     <dimen name="spacing_large">24dp</dimen>
 
+
+
+
+    <dimen name="app_bar_elevation">@dimen/elevation_normal</dimen>
+
+
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
